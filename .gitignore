@@ -1,5 +1,8 @@
 ##########################
-# KEDRO PROJECT
+# PYTHON PROJECT
+
+# Ignore dataset
+dataset/
 
 # ignore all local configuration
 conf/local/**
